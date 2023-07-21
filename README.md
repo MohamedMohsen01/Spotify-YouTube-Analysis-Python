@@ -4,6 +4,38 @@
 <h3>Overview : </h3>
 The Spotify and YouTube Data Analysis project aims to gain insights into music streaming trends and artist performance by analyzing data from both platforms. Through an extensive Exploratory Data Analysis (EDA), this project explores the relationship between views, likes, streams, and other variables to uncover interesting patterns and provide actionable insights for music streaming platforms, artists, and enthusiasts.
 
+
+
+## Features Interpretability
+
+1. Track: name of the song, as visible on the Spotify platform.
+2. Artist: name of the artist.
+3. Url_spotify: the Url of the artist.
+4. Album: the album in which the song is contained on Spotify.
+5. Album_type: indicates if the song is relesead on Spotify as a single or contained in an album.
+6. Uri: a spotify link used to find the song through the API.
+7. Danceability: How suitable a track is for dancing (0.0 = least danceable, 1.0 = most danceable).
+8. Energy: Intensity and activity of a track (0.0 - 1.0). Energetic tracks feel fast, loud, and noisy.
+9. Key: The track's musical key (-1 if not detected).
+10. Loudness: Overall loudness of a track in decibels (dB) (-60 to 0 dB).
+11. Speechiness: Presence of spoken words in a track (0.0-1.0). Higher values indicate speech-like content.
+12. Acousticness: Confidence measure of track's acoustic nature (0.0-1.0).
+13. Instrumentalness: Likelihood of a track containing no vocals (0.0-1.0).
+14. Liveness: Presence of an audience in the recording (0.0-1.0). Higher values indicate live performance.
+15. Valence: Positiveness conveyed by a track (0.0-1.0). High valence = positive, low valence = negative.
+16. Tempo: Estimated tempo of a track in beats per minute (BPM).
+17. Duration_ms: Duration of the track in milliseconds.
+18. Streams: Number of streams of the song on Spotify.
+19. YouTube URL: URL of the video on YouTube (if available).
+20. Title: Title of the video clip on YouTube.
+21. Channel: Channel name that published the video.
+22. Views: Number of views.
+23. Likes: Number of likes.
+24. Comments: Number of comments.
+25. Description: Description of the video on YouTube.
+26. Licensed: Indicates whether the video represents licensed content.
+27. Official Video: Indicates if the video is the official video of the song (boolean value).
+
 <h3>Project Highlights</h3
 📌 Imported essential libraries such as pandas, numpy, matplotlib, and seaborn to facilitate efficient data processing and analysis. <br>📌
 Meticulously loaded and prepared the dataset, ensuring data quality and integrity for comprehensive analysis.  <br>📌
