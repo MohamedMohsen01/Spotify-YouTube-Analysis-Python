@@ -6,7 +6,7 @@ The Spotify and YouTube Data Analysis project aims to gain insights into music s
 
 
 
-## Features Interpretability
+## Cases & Features Interpretability
 
 1. Track: name of the song, as visible on the Spotify platform.
 2. Artist: name of the artist.
