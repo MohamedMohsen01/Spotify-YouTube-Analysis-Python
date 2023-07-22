@@ -39,7 +39,7 @@ In this project, we embark on a journey to unravel the fascinating world of musi
 26. Licensed: Indicates whether the video represents licensed content.
 27. Official Video: Indicates if the video is the official video of the song (boolean value).
 
-## Project Highlights
+## Insights
 
 - "Dua Lipa" claimed the top position with an impressive 13.4 billion streams, closely followed by "XXXTENTACION" in second place with 12 billion streams. "Coldplay" secured the third spot with 11 billion streams.
 YouTube Views Milestone:
@@ -74,7 +74,7 @@ YouTube Views Milestone:
 
 
 
-## Conclusion
+## Conclusions
 - Through this comprehensive project, we have delved into the fascinating world of music streaming and social media to uncover the remarkable milestones achieved by various artists and songs. "Dua Lipa" firmly claimed the top position with an impressive 13.4 billion streams on Spotify, closely followed by "XXXTENTACION" and "Coldplay" with 12 billion and 11 billion streams, respectively. On YouTube, "Bruno Mars" achieved an incredible milestone, amassing a staggering 10.23 billion views, securing the top spot, while "Macklemore & Ryan Lewis" and "Coldplay" closely followed with 10.12 billion and 10 billion views, respectively.
 
 - "BTS" emerged as an unstoppable force on the digital stage, dominating with a record-breaking 39.5 million comments, securing the top spot in YouTube comments. Meanwhile, their massive fan following translated into social media popularity, as they emerged as the most liked artist with an astounding 139.4 million likes. "BLACKPINK" and Charlie Puth also gained significant admiration, securing the second and third positions with 132.3 million and 86.3 million likes, respectively.
