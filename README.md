@@ -36,9 +36,7 @@ The Spotify and YouTube Data Analysis project aims to gain insights into music s
 26. Licensed: Indicates whether the video represents licensed content.
 27. Official Video: Indicates if the video is the official video of the song (boolean value).
 
-<h3>Project Highlights</h3
-#### Section 1: Streaming Successes
-
+## Project Highlights
 
 - "Dua Lipa" claimed the top position with an impressive 13.4 billion streams, closely followed by "XXXTENTACION" in second place with 12 billion streams. "Coldplay" secured the third spot with 11 billion streams.
 YouTube Views Milestone:
@@ -73,7 +71,7 @@ YouTube Views Milestone:
 
 
 
-<h3>Conclusion</h3>
+## Conclusion
 The Spotify and YouTube Data Analysis project provides valuable insights into music streaming trends and artist performance. Based on the analysis of the provided data, the following conclusions can be drawn:
 
 <br>📌Artist Popularity: "Macklemore & Ryan Lewis" emerged as the most viewed artist, amassing a staggering 10.23 billion views. "BTS" secured the highest number of likes with 14 million likes. "Post Malone" claimed the top position in terms of streams with 1.2 billion streams. These findings highlight the popularity and influence of these artists in the music streaming landscape.
