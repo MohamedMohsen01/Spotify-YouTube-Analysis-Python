@@ -156,7 +156,7 @@ Some of the questions I've answered based on the data:
 ## Insights
 
 - "Dua Lipa" claimed the top position with an impressive 13.4 billion streams, closely followed by "XXXTENTACION" in second place with 12 billion streams. "Coldplay" secured the third spot with 11 billion streams.
-YouTube Views Milestone:
+
 - "Bruno Mars" achieved an incredible milestone, accumulating a staggering 10.23 billion views, securing the top spot. "Macklemore & Ryan Lewis" followed closely in second place with 10.12 billion views, and "Coldplay" took the third spot with 10 billion views.
 
 - "BTS" dominated with an astonishing 39.5 million comments, securing the top spot. "BLACKPINK" came in second place with 19.6 million comments, and "Stray Kids" took the third spot with 8.4 million comments.
