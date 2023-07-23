@@ -1,5 +1,5 @@
 ## Project Name:
-#### Spotify and YouTube Data Analysis
+ Spotify and YouTube Data Analysis
 
 <h4>Dataset  link </h4>: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
@@ -52,13 +52,14 @@ In this project, we embark on a journey to unravel the fascinating world of musi
 
 #### 2. Data Pre-processing and Cleaning: 
 In data wrangling and cleaning, I performed essential tasks to ensure reliable and usable data. Here are the key steps I took:
-- Addressed missing data using python techniques to delete and clean the data .
+-  Implemented data cleaning techniques to address missing values, outliers, and inconsistencies, thereby ensuring the accuracy and reliability of the analysis.
 - Ensured data integrity by searching for and cleaning duplicate records.
 - Changed the data types as needed.
 
 
 
 ## Exploratory Data Analysis (EDA): 
+Enhanced the initial data exploration process during the EDA phase, gaining a profound understanding of the variables and their distributions. 
 Some of the questions I've answered based on the data:
 1. What are the Top 10 Artists with the highest total Streams on Spotify?
 2. Retrieve the top 10 Artists with the highest total views on YouTube?
@@ -106,7 +107,7 @@ Some of the questions I've answered based on the data:
 
 
 ## Functions and methods used:
-- plt.style.use)
+- plt.style.use()
 - pd.set_option()
 - sns.light_palette()
 - head()
@@ -149,8 +150,6 @@ Some of the questions I've answered based on the data:
 - sns.lmplot()
 - sns.jointplot()
 - sns.regplot()
-- jointplot(kind='resid')
-- jointplot(kind='hex')
 
 
 
